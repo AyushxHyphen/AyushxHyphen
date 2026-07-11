@@ -110,10 +110,9 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=ff00ff)](https://twitter.com/YOUR-TWITTER)
-[![Instagram](https://img.shields.io/badge/-Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/YOUR-INSTAGRAM)
-[![Gmail](https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/ayush-ojha-665a23327?)
+[![Instagram](https://img.shields.io/badge/-Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/ig_hyphenmax)
+[![Gmail](https://img.shields.io/badge/-Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:ayushxcse@gmail.com)
 
 </div>
 
