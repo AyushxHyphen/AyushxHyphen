@@ -101,7 +101,6 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/AyushxHyphen/AyushxHyphen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-*(This animates automatically once the GitHub Action below is set up — see Step 5)*
 
 </div>
 
