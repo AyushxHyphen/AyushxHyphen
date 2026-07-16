@@ -54,28 +54,6 @@ me.say_hi()
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AyushxHyphen/student-performance-predictor">
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api/pin/?username=AyushxHyphen&repo=student-performance-predictor&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&icon_color=ff00ff" />
-</a>
-<a href="https://github.com/AyushxHyphen/sentiment-app">
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api/pin/?username=AyushxHyphen&repo=sentiment-app&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&icon_color=ff00ff" />
-</a>
-
-<a href="https://github.com/AyushxHyphen/NovaCoin-Exchange">
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api/pin/?username=AyushxHyphen&repo=NovaCoin-Exchange&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&icon_color=ff00ff" />
-</a>
-<a href="https://github.com/AyushxHyphen/Strata-NFT">
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api/pin/?username=AyushxHyphen&repo=Strata-NFT&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&icon_color=ff00ff" />
-</a>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
