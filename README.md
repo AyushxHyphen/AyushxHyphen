@@ -58,10 +58,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api?username=AyushxHyphen&show_icons=true&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&icon_color=ff00ff&text_color=c9d1d9&hide_border=false" width="48%"/>
-<img src="https://github-readme-stats-sepia-eight.vercel.app/api/top-langs/?username=AyushxHyphen&layout=compact&theme=synthwave&border_color=39FF14&bg_color=0f0c29&title_color=39FF14&text_color=c9d1d9&hide_border=false" width="35%"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushxHyphen&theme=dark&hide_border=true&background=0f0c29&stroke=39FF14&ring=ff00ff&fire=ff00ff&currStreakLabel=39FF14" width="70%"/>
 
